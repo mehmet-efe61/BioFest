@@ -227,7 +227,7 @@ a {
   .site-navbar .site-logo {
     font-weight: 200; }
     .site-navbar .site-logo a {
-      font-weight: 200;
+      font-weight: 1000;
       font-size: 26px;
       color: #000; }
   .site-navbar .site-navigation .site-menu {
@@ -1445,19 +1445,3 @@ a {
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
     transform: scale(1.05); }
-
-    h3.covid {
-      font-family: "Times New Roman";
-      margin-left: 20px;
-      margin-right: 20px;
-      font-size: 40px;
-      font-weight: normal;
-      color: #222222;
-    }
-
-    h2.speakers {
-      font-family: "Times New Roman";
-      text-align: center;
-      font-size: 70px;
-      font-weight: normal;
-    }
