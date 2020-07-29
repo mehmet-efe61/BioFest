@@ -1461,6 +1461,4 @@ a {
       font-size: 70px;
       font-weight: normal;
     }
-    /* html {
-  scroll-behavior: smooth;
-} */
+    body, .smooth-container { scroll-behavior: smooth }
