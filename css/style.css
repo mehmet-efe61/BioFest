@@ -1447,12 +1447,12 @@ a {
     transform: scale(1.05); }
 
     h3.covid {
-      font-family: "Helvetica";
+      font-family: "Work Sans";
       margin-left: 20px;
       margin-right: 20px;
       font-size: 20px;
       font-weight: normal;
-      color: #222222;
+      color: #6c757d;
     }
 
     h2.speakers {
